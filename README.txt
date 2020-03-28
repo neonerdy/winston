@@ -7,6 +7,8 @@ Main
 - Master Data
 - Employees
 - Partners 
+- Products
+- Poin of Sale
 
 Report
 - Customer
