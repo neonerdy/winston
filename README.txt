@@ -4,4 +4,5 @@ Menu
 
 - Dashboards
 - Master Data
-- Employees 
+- Employees
+- Partners 
